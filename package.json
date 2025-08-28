@@ -10,7 +10,9 @@
     "format": "biome check --write src/"
   },
   "dependencies": {
-    "hono": "^4.9.4"
+    "@tailwindcss/vite": "^4.1.12",
+    "hono": "^4.9.4",
+    "tailwindcss": "^4.1.12"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.2.2",
